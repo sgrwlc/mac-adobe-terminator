@@ -40,10 +40,6 @@ Or without sudo (some processes might not terminate):
 ./kill-adobe.sh
 ```
 
-## Screenshot
-
-![Screenshot of the script in action](screenshot.png)
-
 ## How It Works
 
 The script uses a multi-layered approach to ensure all Adobe processes are terminated:
